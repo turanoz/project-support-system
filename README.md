@@ -1,4 +1,3 @@
-
 **KOCAELİ ÜNİVERSİTESİ**
 
 **PROJE DESTEK SİSTEMİ**
@@ -9,10 +8,9 @@
 
 [*181307006@kocaeli.edu.tr*](mailto:181307072@kocaeli.edu.tr)
 
-[*181307049@kocaeli.edu.tr*](mailto:181307059@kocaeli.edu.tr)*  
-*
+[*181307049@kocaeli.edu.tr*](mailto:181307059@kocaeli.edu.tr)
 
-# **GİRİŞ**
+# GİRİŞ
 
 İki kişi olacak şekilde belirlenen gruplar sonrası grubumuzu belirleyerek işe başladık. Projemizi belirlerken çoğu proje grubunun proje konusu bulmakta zorlandığını gördük. Bunun için proje öneri sistemini geliştirmeye karar verdik. Grup üyeleri daha önce bulut teknolojileri çok az kullandığımız için öncelikle araştırmalar yaptık. Bulut sistemi nedir? Ne için kullanılır? Gibi sorulara cevap aradık. Projemize başlamadan önce hep birlikte proje isterlerini birkaç kez okuyup anlayarak notlar çıkardık. Beraber araştırma yaparak projemizi hangi yazılım uygulaması ile yaparsak daha başarılı oluruz diye tartıştık. İsterler de uygun olan ve bizim için de anlaşılması ve uygulaması kolay olacak yazılım dilleri üzerinde durduk. Görev paylaşımını yaptıktan sonra ödevimizi yapmaya başladık. Projemiz için uygun olan yazılım dillerini toplantılar ile belirledik.
 
@@ -20,7 +18,7 @@ Cloud sistemi olarak Bize en uygun olduğuna karar verdiğimiz amazon cloud sist
 
 Projemiz insanların proje bulmakta zorlanmasının önüne geçmektir. Bu sistem sayesinde insanlar önerilen projeler vesilesiyle akıllarında hem farklı fikirler oluşabilir hem de hali hali hazırda bulunan proje önerilerini gerçekleştirmeye imkan sağlayabilir.
 
-# **SÖZDE KOD**
+# SÖZDE KOD
 
 -   Sözde kodumuzda kullanıcı sisteme kayıt olunarak başlanıyor.
 -   Kayıt olunduktan sonra sisteme giriş yapılıyor.
@@ -35,9 +33,7 @@ Projemiz insanların proje bulmakta zorlanmasının önüne geçmektir. Bu siste
 5.  Proje Önerisi Sun
 6.  Bitir
 
-# **PROJE DESTEK SİSTEMİ TASARIMI**
-
-![](media/7d8ea1161cffb7c44464a0e4fbc32b3f.png)
+# PROJE DESTEK SİSTEMİ TASARIMI![](media/7d8ea1161cffb7c44464a0e4fbc32b3f.png)
 
 Resim 3.1 – Sisteme Giriş
 
@@ -87,13 +83,13 @@ Resim 3.8 - Ek
 
 Proje ile ilgili ekler burada indiriliyor.
 
-# **VERİTABANI TASARIMI**
+# VERİTABANI TASARIMI
 
 Projemizde belirlediğimiz verilere göre veri tabanı tasarım aşamasına geçtik. Veritabanı da kullanacağımız varlıkları ve daha sonra nitelikleri belirledik. Bunlar arasında ilişkileri oluşturduktan sonra varlık ilişki diyagramımızı kağıt üzerinde denemeler yaptık . son olarak hazır halini mysql ile veritabanı kısmını yaptık. Veri tabanımızı amazon cloud sistemine entegre ederek bu süreci tamamladık.
 
 ## 
 
-# **LİTERATÜR TARAMASI**
+# LİTERATÜR TARAMASI
 
 Yaptığımız uygulamada literatür araştırması yaptığımız zaman devletin vatandaşlar için sunmuş olduğu web siteleri bizim yaptığımız projeye benzer olduğunu belirledik. Benzerlikler olarak tasarımlar, projenin yapılma amacı, başvuru ekranları benzer gördüğümüz özelliklerdendi.
 
@@ -127,43 +123,37 @@ Resim 5.4 – Proje ekleme
 
 Bu ekranda kullanıcı aklındaki projeyi detaylı bir şekilde açıklayacak ve pdf ekini de sisteme koymalıdır.
 
-# **KULLANDIĞIMIZ TEKNOLOJİLER**
+# KULLANDIĞIMIZ TEKNOLOJİLER
 
-## **HTML**
-
-![](media/31f958fe0b6389294bf06bb649298973.png)
+## HTML
 
 Temel gereği yazı, görüntü, video gibi değişik verileri ve bunları içeren sayfaları birbirine basitçe bağlamak, buna ek olarak söz konusu sayfaların web tarayıcısı yazılımları tarafından düzgün olarak görüntülenmesi için gerekli kuralları belirlemektir. HTML kodunu web tarayıcıları okur, yorumlar ve görsel hale dönüştürürler, dolayısıyla aynı HTML kodunun farklı tarayıcılarda farklı sonuç vermesi olasıdır. CSS ve JavaScript ile beraber kullanıldığında HTML vasıtasıyla görsel ve dinamik web siteleri yaratılabilir.
 
-## **![](media/4e9b877c0522bbc8c03a40823639287d.png)CSS**
+## CSS
 
 İnternet sayfaları için genelgeçer şablonlar hazırlama olanağı verdiği gibi, bağımsız olarak harflerin stilini, yani renk, yazı tipi, büyüklük gibi özelliklerini değiştirmek için de kullanılabilir. Bu tekniğin en önemli özelliği kullanımındaki esnekliktir.
 
 Bir Web sayfası içerisinde birbiriyle uyumlu birkaç renk ve birkaç yazı tip kullanılır ve bunları her sayfada ayrı ayrı tekrar belirtmek yerine CSS yardımıyla bir sefer tanımlayıp bütün Web sayfalarında ortak olarak kullanılabilir. Böylece sayfaların hafızadaki boyutu epey küçüldüğü gibi güncelleme yapmak da kolaylaşır.
 
-## **![](media/992e5223379e1ab9b971e1c88ca4b298.png)JavaScript**
+## JavaScript
+
+## 
 
 JavaScript’in Html sayfalarının içeriklerini veya stillerini dinamik olarak eklemenize ve değiştirmenize izin vermesidir. JavaScript çalışma anında web sayfasını veya CSS öğelerini oluşturup değiştirebilen ve web sayfalarının görünümünü güncelleyebilen çeşitli yöntemler sunar.
 
 JavaScript, açılır menü gibi gezinme araçları ile web sitelerinin tasarımını geliştirebilir. JavaScript yardımıyla web sayfalarında fare ve klavye eylemlerini özelleştirebilirsiniz.
 
-## **PHP**
-
-![](media/ebd646ccbf66ff59c82ddd10ce7d2757.png)
+## PHP
 
 PHP'yi Javascript gibi kullanıcı tarafında çalışan dillerden ayıran, sunucu tarafında çalıştırılıyor olmasıdır. Yukardaki örnekteki kodu kendi sunucunuzda çalıştırırsanız, sitenize bağlanan kullanıcılar kodu göremeyecekler ve müdahale edemeyecekler, yalnızca sonucu görebileceklerdir. Dilerseniz HTTP sunucunuzu bütün HTML dosyalarınızı PHP dosyası olarak görüp işleyecek hale bile getirebilirsiniz. Buna rağmen kullanıcılar sizin gerçekte sunucu taraflı bir uygulama kullandığınızı fark edemeyebilirler.
 
-## **Laravel**
-
-![](media/fa1daaef3545dfd18a312ae06deaf7a5.png)
+## Laravel
 
 Laravel, web uygulamalarını daha hızlı ve kolay bir şekilde geliştirmeyi sağlayan, açık kaynak kodlu bir PHP framework’tür. Geliştiricilere sunduğu çeşitli özellikler sayesinde web geliştiricilerinin büyük bir çoğunluğu tarafından tercih edilmektedir.
 
 Sunucu tarafında çalışan Laravel ile backend özellikler gerektiren uygulamalar geliştirmek mümkün olmaktadır. Modüler paket sistemi, yetkilendirme sistemi, obje ilişkili haritalaması, komut satırı arayüzü, otomatik test özellikleri ve sanal geliştirme ortamı gibi çeşitli özellikleri ile geliştiricilere büyük kolaylıklar sunmaktadır.
 
 Farklı framework’lerin mevcut parçalarını kullanarak web uygulaması geliştirmeyi kolaylaştırmaktadır. Bu sayede web uygulamaları daha düzgün yapıya sahip olurken aynı zamanda daha işlevsel hale gelmektedir.
-
-## ![](media/b2c3bf3aa1940f5673d2dd79ce406db9.jpeg)
 
 ## Amazon Web Services (AWS) bulut bilişim ve depolama hizmetleri sunar. AWS, işletmelerin ölçeklenmesine ve büyümesine yardımcı olmak için bilgi işlem gücü, veritabanı depolama, içerik teslimi ve daha farklı işlevler sunan güvenli ve esnek bir bulut hizmetleri platformudur.
 
@@ -187,17 +177,29 @@ Amazon RDS, tanıdık bir MySQL, MariaDB, Oracle, SQL Server veya PostgreSQL ver
 
 [IAM rolleriyle](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_roles.html), AWS hesabınızda çalışması için kullanıcılara veya AWS hizmetlerine erişim yetkisi verebilirsiniz. Kimlik sağlayıcınızdaki kullanıcılar veya AWS hizmetleri, IAM rolü hesabında AWS isteğinde bulunmak için kullanılabilecek güvenlikle ilgili geçici kimlik bilgilerini alma rolünü üstlenebilir. Sonuç olarak IAM rolleri, AWS hesaplarınızda işlem yapması gereken kullanıcılar, iş yükleri ve AWS hizmetleri için kısa süreli kimlik bilgilerinden yararlanmanın bir yolunu sağlar.
 
-![](media/51fcab8705ee70a51035126df56798f3.png)
-
-## **Mysq**
+## Mysql
 
 Mysql'de veritabanı tasarımı yaparken ilişkilerin doğru şekilde belirlenmesi için bir tasarım aracına ihtiyaç duyuluyor, bu yüzden workbench kullanıyoruz. Workbench, sql sorgusu yazmadan ER (Varlık-İlişki) diyagramına göre veritabanınızı şekillendiriyor. Tablo ve ilişkileri oluşturuyor.
 
-# **VERİTABANI DİYAGRAMI**
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# VERİTABANI DİYAGRAMI
 
 ![](media/210c5369e395e8b7de861529a7cd7a2e.png)
 
-# **PROJENİN HAZIRLANMASINDA KARŞILAŞTIĞIMIZ ZORLUKLAR VE BULDUĞUMUZ ÇÖZÜMLER**
+# PROJENİN HAZIRLANMASINDA KARŞILAŞTIĞIMIZ ZORLUKLAR VE BULDUĞUMUZ ÇÖZÜMLER
 
 İlk sorununuzu projenin belirlenmesi konusunda yaşadık. Düşündüğümüz bazı projelerin bulut sistemine uygun olmadığını düşündüğümüz için bu konu üzerinde çok durduk. Bu sorunu sınıfta yaşadığımız proje belirleme sorununu fark ederek çözdük.
 
@@ -205,7 +207,7 @@ Cloud sistemini minimum masrafla ve projeye en etkili olabilecek şekilde olmas�
 
 Projemize birçok ödevimiz olduğunu için geç başlamıştık ve tarihin planlanan tarihten öne çekme durumu olduğu için bir süre karışıklık yaşadık ama beklediğimiz gibi olmadı.
 
-# **PROJENİN BİZE KATMIŞ OLDUĞU BİLGİLER**
+# PROJENİN BİZE KATMIŞ OLDUĞU BİLGİLER
 
 Grup çalışmasını ne kadar önemli olduğunu öğretti. Zamanı verimli bir şekilde yönetmeyi ve bu zaman içerisine bir çok farklı zorlukların üstesinden gelmeyi başardık.
 
@@ -213,7 +215,7 @@ Grup çalışmasını ne kadar önemli olduğunu öğretti. Zamanı verimli bir 
 
 Bu kısa sürede daha önce kullanmadığımız programları öğrenip üstüne proje geliştirmek bizim için artı bir değer oldu.
 
-# **KAYNAKÇA**
+# KAYNAKÇA
 
 [1] <https://laravel.com/docs/9.x/installation>
 
@@ -273,7 +275,7 @@ Bu kısa sürede daha önce kullanmadığımız programları öğrenip üstüne 
 
 [29] <https://www.youtube.com/watch?v=p0hYdODTuO8>
 
-# **PROJE DOSYALARI**
+# PROJE DOSYALARI
 
 [1] [https://drive.google.com/file/d/1QMR9AdyRBLof4 YR -1lQ2-pds74dJmKvK/view?usp=sharing](https://drive.google.com/file/d/1QMR9AdyRBLof4YR-1lQ2-pds74dJmKvK/view?usp=sharing)
 
