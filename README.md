@@ -181,20 +181,6 @@ Amazon RDS, tanıdık bir MySQL, MariaDB, Oracle, SQL Server veya PostgreSQL ver
 
 Mysql'de veritabanı tasarımı yaparken ilişkilerin doğru şekilde belirlenmesi için bir tasarım aracına ihtiyaç duyuluyor, bu yüzden workbench kullanıyoruz. Workbench, sql sorgusu yazmadan ER (Varlık-İlişki) diyagramına göre veritabanınızı şekillendiriyor. Tablo ve ilişkileri oluşturuyor.
 
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
-# 
-
 # VERİTABANI DİYAGRAMI
 
 ![](media/210c5369e395e8b7de861529a7cd7a2e.png)
